@@ -1,0 +1,15 @@
+C:\Users\Юля PC\Desktop\лекции\lekzii\lekzia3\bin\Debug\net6.0\lekzia3.exe
+C:\Users\Юля PC\Desktop\лекции\lekzii\lekzia3\bin\Debug\net6.0\lekzia3.deps.json
+C:\Users\Юля PC\Desktop\лекции\lekzii\lekzia3\bin\Debug\net6.0\lekzia3.runtimeconfig.json
+C:\Users\Юля PC\Desktop\лекции\lekzii\lekzia3\bin\Debug\net6.0\lekzia3.dll
+C:\Users\Юля PC\Desktop\лекции\lekzii\lekzia3\bin\Debug\net6.0\lekzia3.pdb
+C:\Users\Юля PC\Desktop\лекции\lekzii\lekzia3\obj\Debug\net6.0\lekzia3.csproj.AssemblyReference.cache
+C:\Users\Юля PC\Desktop\лекции\lekzii\lekzia3\obj\Debug\net6.0\lekzia3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юля PC\Desktop\лекции\lekzii\lekzia3\obj\Debug\net6.0\lekzia3.AssemblyInfoInputs.cache
+C:\Users\Юля PC\Desktop\лекции\lekzii\lekzia3\obj\Debug\net6.0\lekzia3.AssemblyInfo.cs
+C:\Users\Юля PC\Desktop\лекции\lekzii\lekzia3\obj\Debug\net6.0\lekzia3.csproj.CoreCompileInputs.cache
+C:\Users\Юля PC\Desktop\лекции\lekzii\lekzia3\obj\Debug\net6.0\lekzia3.dll
+C:\Users\Юля PC\Desktop\лекции\lekzii\lekzia3\obj\Debug\net6.0\refint\lekzia3.dll
+C:\Users\Юля PC\Desktop\лекции\lekzii\lekzia3\obj\Debug\net6.0\lekzia3.pdb
+C:\Users\Юля PC\Desktop\лекции\lekzii\lekzia3\obj\Debug\net6.0\lekzia3.genruntimeconfig.cache
+C:\Users\Юля PC\Desktop\лекции\lekzii\lekzia3\obj\Debug\net6.0\ref\lekzia3.dll
