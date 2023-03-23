@@ -95,37 +95,59 @@
 // Console.WriteLine(newText);
 
 //        Cортиовка массивов.
-int[] arr ={ 1, 5, 4, 3, 2, 6, 7, 1, 1 };// эллементы массива могут повторяться. Массив
+// int[] arr ={ 1, 5, 4, 3, 2, 6, 7, 1, 1 };// эллементы массива могут повторяться. Массив
 
-void PrintArray(int[] array)
-{
-    int count = array.Length;
+// void PrintArray(int[] array)
+// {
+//     int count = array.Length;
 
-    for (int i = 0; i < count; i++)//проходим по всем элементам массива и выводим на экран
-    {
-        Console.Write($"{array[i]}");
-    }
-    Console.WriteLine();
-}
-void SelectionSort(int[] array) //метод который упорядочиввает массив
-{
-    for (int i = 0; i < array.Length - 1; i++)
-    {
-        int minPosition = i;
+//     for (int i = 0; i < count; i++)//проходим по всем элементам массива и выводим на экран
+//     {
+//         Console.Write($"{array[i]}");
+//     }
+//     Console.WriteLine();
+// }
+// void SelectionSort(int[] array) //метод который упорядочиввает массив
+// {
+//     for (int i = 0; i < array.Length - 1; i++)
+//     {
+//         int minPosition = i;
 
-        for (int j = i + 1; j < array.Length; j++)//начинаем сортировку с того эл-та который ещё не отсортированпоэтому i+1
-        {
-            if(array[j] < array[minPosition]) minPosition = j;//ищим мин элемент. смотрим текущий если он меньше того эл. кот мы предплог,то нужно эту позицию сохранить.
-        }//блок кода ищет макс эл.
+//         for (int j = i + 1; j < array.Length; j++)//начинаем сортировку с того эл-та который ещё не отсортированпоэтому i+1
+//         {
+//             if(array[j] < array[minPosition]) minPosition = j;//ищим мин элемент. смотрим текущий если он меньше того эл. кот мы предплог,то нужно эту позицию сохранить.
+//         }//блок кода ищет макс эл.
 
-        int temporary = array[i];//рабочая позиция
-        array[i] = array[minPosition]; //здесь кладём найденный элемент
-        array[minPosition] = temporary;//в мин позицию кладём элемент кот был временным
+//         int temporary = array[i];//рабочая позиция
+//         array[i] = array[minPosition]; //здесь кладём найденный элемент
+//         array[minPosition] = temporary;//в мин позицию кладём элемент кот был временным
 
-    }
+//     }
 
-}
+// }
 
-PrintArray(arr);
-SelectionSort(arr);
-PrintArray(arr);
+// PrintArray(arr);
+// SelectionSort(arr);
+// PrintArray(arr);
+
+//Зад1 программа принимает на вход координаты точки (Х и Y), причём X не равно 0 и Y  не равно 0 и выдаёт номер четверти.
+// int FindQart(int x, int y)
+// {
+//     if(x > 0 && y > 0)
+//     return 1;
+//     if(x < 0 && y > 0)
+//     return 2;
+//     if(x < 0 && y < 0)
+//     return 3;
+//     if(x > 0 && y < 0)
+//     return  4;
+
+//     return 0;
+// }
+
+// Console.WriteLine("input x: ");
+// int x = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("input Y: ");
+// int y = Convert.ToInt32(Console.ReadLine());
+
+// Console.WriteLine($"Point Locate at {FindQart(x, y)} quart");//Console.WriteLine(FindQart(x, Y));
