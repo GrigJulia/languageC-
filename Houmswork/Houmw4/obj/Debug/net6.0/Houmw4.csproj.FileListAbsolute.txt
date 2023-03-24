@@ -1,0 +1,15 @@
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmw4\obj\Debug\net6.0\Houmw4.csproj.AssemblyReference.cache
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmw4\obj\Debug\net6.0\Houmw4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmw4\obj\Debug\net6.0\Houmw4.AssemblyInfoInputs.cache
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmw4\obj\Debug\net6.0\Houmw4.AssemblyInfo.cs
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmw4\obj\Debug\net6.0\Houmw4.csproj.CoreCompileInputs.cache
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmw4\bin\Debug\net6.0\Houmw4.exe
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmw4\bin\Debug\net6.0\Houmw4.deps.json
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmw4\bin\Debug\net6.0\Houmw4.runtimeconfig.json
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmw4\bin\Debug\net6.0\Houmw4.dll
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmw4\bin\Debug\net6.0\Houmw4.pdb
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmw4\obj\Debug\net6.0\Houmw4.dll
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmw4\obj\Debug\net6.0\refint\Houmw4.dll
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmw4\obj\Debug\net6.0\Houmw4.pdb
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmw4\obj\Debug\net6.0\Houmw4.genruntimeconfig.cache
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmw4\obj\Debug\net6.0\ref\Houmw4.dll
