@@ -65,6 +65,7 @@
 
 // int[] myArray = CreatRandArray (size, minValue, maxVaiue);
 // ShowArray(myArray);
+
 // myArray = ChangeElementsOfArray(myArray);//перезаписали массив
 // ShowArray(myArray);//вывели перезаписаный массив.
 

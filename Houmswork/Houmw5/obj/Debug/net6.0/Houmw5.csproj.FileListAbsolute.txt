@@ -1,0 +1,15 @@
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmw5\bin\Debug\net6.0\Houmw5.exe
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmw5\bin\Debug\net6.0\Houmw5.deps.json
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmw5\bin\Debug\net6.0\Houmw5.runtimeconfig.json
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmw5\bin\Debug\net6.0\Houmw5.dll
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmw5\bin\Debug\net6.0\Houmw5.pdb
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmw5\obj\Debug\net6.0\Houmw5.csproj.AssemblyReference.cache
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmw5\obj\Debug\net6.0\Houmw5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmw5\obj\Debug\net6.0\Houmw5.AssemblyInfoInputs.cache
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmw5\obj\Debug\net6.0\Houmw5.AssemblyInfo.cs
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmw5\obj\Debug\net6.0\Houmw5.csproj.CoreCompileInputs.cache
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmw5\obj\Debug\net6.0\Houmw5.dll
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmw5\obj\Debug\net6.0\refint\Houmw5.dll
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmw5\obj\Debug\net6.0\Houmw5.pdb
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmw5\obj\Debug\net6.0\Houmw5.genruntimeconfig.cache
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmw5\obj\Debug\net6.0\ref\Houmw5.dll
