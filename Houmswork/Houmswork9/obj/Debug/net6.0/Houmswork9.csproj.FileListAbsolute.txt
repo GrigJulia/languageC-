@@ -1,0 +1,15 @@
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmswork9\bin\Debug\net6.0\Houmswork9.exe
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmswork9\bin\Debug\net6.0\Houmswork9.deps.json
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmswork9\bin\Debug\net6.0\Houmswork9.runtimeconfig.json
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmswork9\bin\Debug\net6.0\Houmswork9.dll
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmswork9\bin\Debug\net6.0\Houmswork9.pdb
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmswork9\obj\Debug\net6.0\Houmswork9.csproj.AssemblyReference.cache
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmswork9\obj\Debug\net6.0\Houmswork9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmswork9\obj\Debug\net6.0\Houmswork9.AssemblyInfoInputs.cache
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmswork9\obj\Debug\net6.0\Houmswork9.AssemblyInfo.cs
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmswork9\obj\Debug\net6.0\Houmswork9.csproj.CoreCompileInputs.cache
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmswork9\obj\Debug\net6.0\Houmswork9.dll
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmswork9\obj\Debug\net6.0\refint\Houmswork9.dll
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmswork9\obj\Debug\net6.0\Houmswork9.pdb
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmswork9\obj\Debug\net6.0\Houmswork9.genruntimeconfig.cache
+C:\Users\Юля PC\Desktop\лекции\Houmswork\Houmswork9\obj\Debug\net6.0\ref\Houmswork9.dll
